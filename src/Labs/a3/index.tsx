@@ -1,5 +1,3 @@
-import JavaScript from "./JavaScript";
-import PathParameters from "./routing/PathParameters";;
 import Classes from "./Classes";
 import Styles from "./Styles"
 import ConditionalOutput from "./ConditionalOutput";
@@ -7,6 +5,8 @@ import Highlight from "./Highlight";
 import Add from "./Add";
 import TodoItem from "./todos/TodoItem";
 import TodoList from "./todos/TodoList";
+import JavaScript from "./JavaScript";
+import PathParameters from "./routing/PathParameters";;
 
 
 function Assignment3() {
